@@ -1,0 +1,6 @@
+#dirs
+.vs/
+Debug/
+Release/
+01_OpenGL/Debug
+01_OpenGL/Release
